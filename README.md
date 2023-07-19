@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahbaz Ahmad</h1>
-<h3 align="center">A fullstack web application developer from Pakistan</h3>
+<h3 align="center">A Fullstack Web Application Developer | Laravel PHP & VueJS | From Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahbazahmad-786&label=Profile%20views&color=0e75b6&style=flat" alt="shahbazahmad-786" /> </p>
 
